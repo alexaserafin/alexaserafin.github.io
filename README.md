@@ -6,4 +6,5 @@ My name is Alexa Serafin and I am a journalism major.
 
 # lehigh Enrollment 
 This is an infographic that shows us lehigh enrollment based on location from the [Lehigh Office of Institutional Data](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf).
+
 ![Enrollment Infographic](https://github.com/alexaserafin/alexaserafin.github.io/blob/main/Orange%20and%20Gray%20Simple%20Informational%20Infographic.jpg?raw=true)
