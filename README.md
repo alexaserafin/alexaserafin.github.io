@@ -13,3 +13,6 @@ This is an infographic shows the average sleep schedule of a college student and
 ![Sleep Infographic](https://github.com/alexaserafin/alexaserafin.github.io/blob/main/College%20Sleep%20Habits-%20Data.png?raw=true)
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1vxMgoyn3pmU4Ib9Pd0Du_DReBFHproRlEBUqSJ0PCIs&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
+
+Here is a timeline I created to showcase the progession in Womens Rights. 
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1OkX17kauHtqyt0xwIeFmvajakNaK7Lke3Y6b1pb4N5g&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
