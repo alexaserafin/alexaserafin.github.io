@@ -14,9 +14,12 @@ Average Sleep Schedule of a College Student
 This is an infographic shows the average sleep schedule of a college student and in turn how this affects GPA, this data was pulled from various sources one of them being from [National Academy of Sciences](https://www.pnas.org/doi/10.1073/pnas.2209123120#:~:text=Every%20hour%20of%20lost%20total,formative%20first%20year%20of%20college) 
 ![Sleep Infographic](https://github.com/alexaserafin/alexaserafin.github.io/blob/main/College%20Sleep%20Habits-%20Data.png?raw=true)
 
+
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1vxMgoyn3pmU4Ib9Pd0Du_DReBFHproRlEBUqSJ0PCIs&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
 
-Here is a timeline I created to showcase the progession in Womens Rights. 
+# Womens Rights Timeline 
+
+Here is a timeline I created to showcase the progession in Womens Rights starting in 1776 when Abgail Adams wrote to her husband, and ending with the first woman presidental nominee in 2016. This timeline follows various events such as year of the woman, the ratification of the right to vote, the first woman in congress, and the first womans suffrage convention. 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1OkX17kauHtqyt0xwIeFmvajakNaK7Lke3Y6b1pb4N5g&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 Here is a bar chart I made using Chart Builder to show Lehigh Fall 2024 Graduate Enrollment.
