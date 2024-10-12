@@ -26,4 +26,6 @@ Here is a bar chart I made using Chart Builder to show Lehigh Fall 2024 Graduate
 
 ![Graduate Enrollement](https://github.com/alexaserafin/alexaserafin.github.io/blob/main/Percentage_of_Graduate_Enrollmet__Percentage_of_Graduate_Enrollmet__chartbuilder.png?raw=true)
 
+# Daily Screen Time Comparsion Chart 
 
+Here is a bar chart comparing daily screen time across three activities—Social Media, TV/Streaming, and Gaming—for different age groups: Teens, Adults, and Seniors. Each activity is represented by a different color, allowing for a clear visual comparison of how screen time habits vary by age group.
