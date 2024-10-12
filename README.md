@@ -25,3 +25,5 @@ Here is a timeline I created to showcase the progession in Womens Rights startin
 Here is a bar chart I made using Chart Builder to show Lehigh Fall 2024 Graduate Enrollment.
 
 ![Graduate Enrollement](https://github.com/alexaserafin/alexaserafin.github.io/blob/main/Percentage_of_Graduate_Enrollmet__Percentage_of_Graduate_Enrollmet__chartbuilder.png?raw=true)
+
+
