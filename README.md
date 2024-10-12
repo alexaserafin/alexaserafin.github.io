@@ -29,3 +29,4 @@ Here is a bar chart I made using Chart Builder to show Lehigh Fall 2024 Graduate
 # Daily Screen Time Comparsion Chart 
 
 Here is a bar chart comparing daily screen time across three activities—Social Media, TV/Streaming, and Gaming—for different age groups: Teens, Adults, and Seniors. Each activity is represented by a different color, allowing for a clear visual comparison of how screen time habits vary by age group.
+![Daily Screen Time](https://github.com/alexaserafin/alexaserafin.github.io/blob/main/Daily_Screen_Time_Comparison__Social_Media_(hrs_day)_TV_Streaming_(hrs_day)_Gaming_(hrs_day)_chartbuilder.png?raw=true)
