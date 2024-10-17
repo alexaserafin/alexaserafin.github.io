@@ -30,3 +30,8 @@ Here is a bar chart I made using Chart Builder to show Lehigh Fall 2024 Graduate
 
 Here is a bar chart comparing daily screen time across three activities—Social Media, TV/Streaming, and Gaming—for different age groups: Teens, Adults, and Seniors. Each activity is represented by a different color, allowing for a clear visual comparison of how screen time habits vary by age group.
 ![Daily Screen Time](https://github.com/alexaserafin/alexaserafin.github.io/blob/main/Daily_Screen_Time_Comparison__Social_Media_(hrs_day)_TV_Streaming_(hrs_day)_Gaming_(hrs_day)_chartbuilder.png?raw=true)
+
+# GDP Per Capita Scatter Plot
+
+Here is a scatter plot I made showing how much money people in different countries make on average, reflecting their economic well-being. It’s a reminder of the varying lifestyles and opportunities around the world, with some countries enjoying a much higher standard of living than others.
+![GDP per Capita](https://github.com/alexaserafin/alexaserafin.github.io/blob/main/GDP_per_Capita_GDP_per_Capita_(USD)_chartbuilder.png?raw=true) 
