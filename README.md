@@ -36,8 +36,15 @@ Here is a bar chart comparing daily screen time across three activities—Social
 Here is a scatter plot I made showing how much money people in different countries make on average, reflecting their economic well-being. It’s a reminder of the varying lifestyles and opportunities around the world, with some countries enjoying a much higher standard of living than others.
 ![GDP per Capita](https://github.com/alexaserafin/alexaserafin.github.io/blob/main/GDP_per_Capita_GDP_per_Capita_(USD)_chartbuilder.png?raw=true) 
 
+
 # Worlds Top Cycling Cities in 2019
 
 This is a map to show the worlds top cycling cities in 2019 in accordance with the Wired magazine. 
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1aFQPgZZnLO2g2R8vKppvRhqpFm0dl3k&ehbc=2E312F" width="640" height="480"></iframe> 
+
+
+# Culinary Capitals: A Taste of Global Food Markets
+
+This map explores five iconic food markets around the world, each offering a unique culinary experience. From street food to local delicacies, these markets reflect the culture and flavors of their cities, inviting visitors to indulge in delicious treats. 
+<iframe src="https://www.google.com/maps/d/embed?mid=1J_SeJ187rurq_HNe1AedVPB6rYagh0g&ehbc=2E312F" width="640" height="480"></iframe> 
