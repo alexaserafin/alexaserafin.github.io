@@ -48,3 +48,10 @@ This is a map to show the worlds top cycling cities in 2019 in accordance with t
 
 This map explores five iconic food markets around the world, each offering a unique culinary experience. From street food to local delicacies, these markets reflect the culture and flavors of their cities, inviting visitors to indulge in delicious treats. 
 <iframe src="https://www.google.com/maps/d/embed?mid=1J_SeJ187rurq_HNe1AedVPB6rYagh0g&ehbc=2E312F" width="640" height="480"></iframe> 
+
+
+# How Students Get To Party Data
+
+The Student Party Transportation Trends dataset examines how Lehigh students travel to on- and off-campus parties, exploring correlations between transportation methods, campus affiliations (such as Greek life), and gender. 
+
+![How Students Get To Parties](https://us-east-1.online.tableau.com/#/site/datajournalism/views/StudentPartyDataSets/Dashboard1?:iid=4)
