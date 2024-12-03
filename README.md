@@ -54,11 +54,11 @@ This map explores five iconic food markets around the world, each offering a uni
 
 The Student Party Transportation Trends dataset examines how Lehigh students travel to on- and off-campus parties, exploring correlations between transportation methods, campus affiliations (such as Greek life), and gender. 
 
-(<script type='module' src='https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script><tableau-viz id='tableau-viz' src='https://us-east-1.online.tableau.com/t/datajournalism/views/StudentPartyDataSets/Dashboard1' width='1000' height='840' hide-tabs toolbar='bottom' ></tableau-viz>)
+<script type='module' src='https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script><tableau-viz id='tableau-viz' src='https://us-east-1.online.tableau.com/t/datajournalism/views/StudentPartyDataSets/Dashboard1' width='1000' height='840' hide-tabs toolbar='bottom' ></tableau-viz>)
 
 
 # Commute Choices and Satisfacation 
 
 This dataset explores commuting patterns, focusing on the relationship between commute methods, time spent traveling, and overall satisfaction. It includes data on gender, age groups, and frequency of commute to provide insights into how different factors influence the daily travel experience and its impact on commuter satisfaction.
 
-(<script type='module' src='https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script><tableau-viz id='tableau-viz' src='https://us-east-1.online.tableau.com/t/datajournalism/views/CommuteChoicesandSatisfaction/CommuteChoicesandSatisfaction' width='1000' height='840' hide-tabs toolbar='bottom' ></tableau-viz>)
+<script type='module' src='https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script><tableau-viz id='tableau-viz' src='https://us-east-1.online.tableau.com/t/datajournalism/views/CommuteChoicesandSatisfaction/CommuteChoicesandSatisfaction' width='1000' height='840' hide-tabs toolbar='bottom' ></tableau-viz>)
